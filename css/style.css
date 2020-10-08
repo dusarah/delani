@@ -29,10 +29,34 @@
   text-align: center;
   padding-top: 190px;
 }
-#sectionWhatWeDo{
+div#first{
+  float:left;
   align-content: center;
   text-align: center;
-  padding-top: 190px;
+  width:28%;
+  height:300px;
+  padding:35px 35px 35px 35px;
+  margin-right: 10%;
+
+}
+div#second{
+  float:left;
+  padding:35px 35px 35px 35px;
+  align-content: center;
+  text-align: center;
+  width:25%
+  height:300px;
+  margin-right: 10%
+
+}
+div#third{
+  float:left;
+  padding:35px 35px 35px 35px;
+  align-content: center;
+  text-align: center;
+  width:25%;
+  height:300px;
+
 }
 #sectionPortfolio{
   align-content: center;
@@ -44,5 +68,6 @@
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  color:#ffff;
   width:100%;
   height:100%;
