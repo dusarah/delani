@@ -29,34 +29,41 @@
   text-align: center;
   padding-top: 190px;
 }
-div#first{
-  float:left;
+
+
+#sectionWhatWeDo{
   align-content: center;
   text-align: center;
-  width:28%;
-  height:300px;
-  padding:35px 35px 35px 35px;
-  margin-right: 10%;
+  padding-top: 190px;
 
+  div#first{
+    float:left;
+    align-content: center;
+    text-align: center;
+    width:28%;
+    height:300px;
+    padding:35px 35px 35px 35px;
+    margin-right: 10%;
+  }
+
+  div#second{
+    float:left;
+    padding:35px 35px 35px 35px;
+    align-content: center;
+    text-align: center;
+    width:25%
+    height:300px;
+    margin-right: 10%
+  }
+
+  div#third{
+    float:left;
+    padding:35px 35px 35px 35px;
+    align-content: center;
+    text-align: center;
+    width:25%;
+    height:300px;
 }
-div#second{
-  float:left;
-  padding:35px 35px 35px 35px;
-  align-content: center;
-  text-align: center;
-  width:25%
-  height:300px;
-  margin-right: 10%
-
-}
-div#third{
-  float:left;
-  padding:35px 35px 35px 35px;
-  align-content: center;
-  text-align: center;
-  width:25%;
-  height:300px;
-
 }
 #sectionPortfolio{
   align-content: center;
